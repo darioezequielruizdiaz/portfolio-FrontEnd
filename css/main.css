@@ -1,0 +1,13 @@
+.ico{
+    height: 25px;
+    width: 25px;
+}
+.ico-facebook {
+    fill: blue;
+}
+.ico-facebook:hover {
+    fill: green;
+}
+.ico-pencil {
+    fill: white;
+}
